@@ -1,5 +1,5 @@
 # RussianNovels
-A dataset of around 100 Russian novels for stylometric experiments.  
+A dataset of around 108 Russian novels for stylometric experiments.  
   
 Please note that this is NOT a benchmark corpus - the collection includes texts written mostly in the 19th and 20th century by both male and female authors, tested as formatted to work well with stylo (UTF-8 without BOM), but IT IS NOT balanced for genre, number of texts per author and length of the texts -
   
